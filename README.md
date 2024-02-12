@@ -4,7 +4,7 @@
 
 - **Name:*alif ramdani apetatu* [Your Full Name]
 - **Date of Birth:*28 agusts* [Your Date of Birth]
-- **Gender:*teenage boy* [Your Gender]
+- **Gender:*boy* [Your Gender]
 - **Nationality:*Indonesia* [Your Nationality]
 
 ## Contact Information
