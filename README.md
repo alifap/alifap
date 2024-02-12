@@ -2,16 +2,16 @@
 
 ## Personal Information
 
-- **Name:** [Your Full Name]
-- **Date of Birth:** [Your Date of Birth]
-- **Gender:** [Your Gender]
-- **Nationality:** [Your Nationality]
+- **Name:*alif ramdani apetatu* [Your Full Name]
+- **Date of Birth:*28 agusts* [Your Date of Birth]
+- **Gender:*teenage boy* [Your Gender]
+- **Nationality:*Indonesia* [Your Nationality]
 
 ## Contact Information
 
-- **Email:** [Your Email Address]
+- **Email:*aliframdaniapetatu@gamil.com* [Your Email Address]
 - **Phone:** [Your Phone Number]
-- **Address:** [Your Residential Address]
+- **Address:*Ende-Flores-NTT* [Your Residential Address]
 
 ## Education
 
@@ -64,9 +64,9 @@
 
 ## Languages
 
-- **Language 1:** [Proficiency Level]
-- **Language 2:** [Proficiency Level]
-- **Language 3:** [Proficiency Level]
+- **Language 1:*Arabic* [Proficiency Level]
+- **Language 2:*English* [Proficiency Level]
+- **Language 3:*Indonesia* [Proficiency Level]
 
 ## Hobbies and Interests
 
